@@ -1,0 +1,9 @@
+C:\Users\rachel\Documents\Visual Studio 2015\Projects\ccc\Pong\Pong\bin\Debug\Pong.exe.config
+C:\Users\rachel\Documents\Visual Studio 2015\Projects\ccc\Pong\Pong\bin\Debug\Pong.exe
+C:\Users\rachel\Documents\Visual Studio 2015\Projects\ccc\Pong\Pong\bin\Debug\Pong.pdb
+C:\Users\rachel\Documents\Visual Studio 2015\Projects\ccc\Pong\Pong\obj\Debug\Pong.csprojResolveAssemblyReference.cache
+C:\Users\rachel\Documents\Visual Studio 2015\Projects\ccc\Pong\Pong\obj\Debug\Pong.Pong.resources
+C:\Users\rachel\Documents\Visual Studio 2015\Projects\ccc\Pong\Pong\obj\Debug\Pong.Properties.Resources.resources
+C:\Users\rachel\Documents\Visual Studio 2015\Projects\ccc\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.Cache
+C:\Users\rachel\Documents\Visual Studio 2015\Projects\ccc\Pong\Pong\obj\Debug\Pong.exe
+C:\Users\rachel\Documents\Visual Studio 2015\Projects\ccc\Pong\Pong\obj\Debug\Pong.pdb
